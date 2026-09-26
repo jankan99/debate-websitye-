@@ -1,0 +1,6 @@
+{
+  "name": "Nila Rajkumar Debate Tutoring",
+  "description": "Professional single-page website for Nila Rajkumar's debate and public speaking tutoring service, featuring Student Congress & Declamation coaching, competitive achievements, custom pricing, and an integrated sign-up chatbot powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
